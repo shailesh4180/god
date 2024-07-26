@@ -1,0 +1,2 @@
+# god
+subdomain takeover
